@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
