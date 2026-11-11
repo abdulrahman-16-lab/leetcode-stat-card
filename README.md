@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
