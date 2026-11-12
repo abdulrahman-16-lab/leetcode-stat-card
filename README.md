@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0020-valid-parentheses) |
+| [1447-simplified-fractions](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/1447-simplified-fractions) |
 ## Stack
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [1447-simplified-fractions](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/1447-simplified-fractions) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
@@ -58,4 +60,16 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/1447-simplified-fractions) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
