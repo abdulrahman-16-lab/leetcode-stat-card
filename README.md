@@ -18,6 +18,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0020-valid-parentheses) |
 | [1447-simplified-fractions](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/1447-simplified-fractions) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/1447-simplified-fractions) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
