@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0049-group-anagrams) |
 | [0120-triangle](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0120-triangle) |
 | [3693-climbing-stairs-ii](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0049-group-anagrams) |
 | [1447-simplified-fractions](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/1447-simplified-fractions) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
@@ -77,4 +79,12 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
