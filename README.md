@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0543-diameter-of-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -87,4 +89,12 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0049-group-anagrams) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
