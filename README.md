@@ -8,11 +8,13 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0049-group-anagrams) |
 | [0120-triangle](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0120-triangle) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0120-triangle](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0120-triangle) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3693-climbing-stairs-ii) |
 ## String
 |  |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0049-group-anagrams) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Depth-First Search
 |  |
 | ------- |
