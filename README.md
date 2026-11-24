@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0049-group-anagrams) |
 | [0120-triangle](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0213-house-robber-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
@@ -102,4 +103,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/1091-shortest-path-in-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/abdulrahman-16-lab/leetcode-stat-card/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
